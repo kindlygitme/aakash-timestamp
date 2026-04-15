@@ -3,6 +3,6 @@ pandas
 openpyxl
 numpy
 pydub
-ffmpeg-python
 openai-whisper
 torch==2.1.2
+imageio-ffmpeg
